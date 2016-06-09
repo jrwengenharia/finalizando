@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DatatoTable</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="TV_add_data">Data</string>
+    <string name="BT_add_DatePicker">Ver Calendário</string>
+    <string name="TV_add_Time">Hora</string>
+    <string name="CKB_add_Dia_interio">Dia inteiro</string>
+    <string name="TV_add_Local">Local</string>
+    <string name="BT_add_add_Tipo">Adicionar Tipo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_teste">teste</string>
+</resources>
